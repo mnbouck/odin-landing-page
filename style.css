@@ -1,0 +1,58 @@
+body {
+  padding: 0 100px;
+  display: flex;
+  flex-direction: column;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+}
+
+.links ul {
+  list-style-type: none;
+  display: flex;
+  gap: 20px;
+}
+
+.intro {
+  display: flex;
+}
+
+.intro img {
+  width: 50%;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+.info {
+  display: flex;
+}
+
+.card img {
+  width: 100px;
+}
+
+.quote {
+  display: flex;
+  flex-direction: column;
+}
+
+.join {
+  display: flex;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
