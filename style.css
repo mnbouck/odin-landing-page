@@ -69,3 +69,57 @@
   font-weight: 900;
   font-style: italic;
 }
+
+body {
+  font-family: Roboto, monospace;
+}
+
+header,
+.intro,
+footer {
+  background-color: #1f2937;
+}
+
+.title {
+  font-size: 48px;
+  color: #f9faf8;
+  font-weight: 900;
+}
+
+.links,
+.words {
+  font-size: 18px;
+  color: #e5e7eb;
+}
+
+.logo {
+  font-size: 24px;
+  color: #f9faf8;
+}
+
+.sign-up,
+.join {
+  background-color: #3882f6;
+}
+
+.info-header {
+  font-size: 36px;
+  color: #1f2937;
+  font-weight: 900;
+}
+
+.quote {
+  background-color: #e5e7eb;
+  font-size: 32px;
+  font-weight: 300;
+  font-style: italic;
+  color: #1f2937;
+}
+
+.intro img {
+  width: 50%;
+}
+
+.card img {
+  height: 100px;
+}
